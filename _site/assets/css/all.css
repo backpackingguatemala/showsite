@@ -1,0 +1,75 @@
+#header {
+  height: 800px;
+  margin: 0 auto;
+  width: 1366px;
+  background: url(../img/sky.jpg);
+  background-position: 20% 0%; }
+  #header nav {
+    color: #38386c;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Tahoma;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    text-transform: uppercase; }
+    #header nav .blog {
+      position: absolute;
+      margin-top: 200px;
+      margin-left: 86px; }
+      #header nav .blog:hover {
+        color: rgba(0, 0, 0, 0.7); }
+    #header nav .community {
+      position: absolute;
+      margin-top: 200px;
+      margin-left: 300px; }
+      #header nav .community:hover {
+        color: rgba(0, 0, 0, 0.7); }
+    #header nav .places {
+      position: absolute;
+      margin-top: 100px;
+      margin-left: 625px; }
+      #header nav .places:hover {
+        color: rgba(0, 0, 0, 0.7); }
+    #header nav .success {
+      position: absolute;
+      margin-top: 200px;
+      margin-left: 941px; }
+      #header nav .success:hover {
+        color: rgba(0, 0, 0, 0.7); }
+    #header nav .contact {
+      position: absolute;
+      margin-top: 200px;
+      margin-left: 1194px; }
+      #header nav .contact:hover {
+        color: rgba(0, 0, 0, 0.7); }
+
+#B1 {
+  border-radius: 25px;
+  background-color: #7cc576;
+  position: relative;
+  left: -37px;
+  top: -15px;
+  padding-left: 28px;
+  padding-top: 50px;
+  width: 394px;
+  height: 80px;
+  text-indent: 50px;
+  font-family: Tahoma;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  color: #ddeac9;
+  margin: 0px; }
+
+body {
+  margin: 0px; }
+
+#body {
+  height: 3096px;
+  width: 1366px;
+  background: url(../img/body.png);
+  background-size: cover;
+  margin: 0 auto; }
